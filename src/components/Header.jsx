@@ -5,7 +5,7 @@ function Header() {
   const headerStyles = {
     display: 'flex',
     justifyContent: 'space-between',
-    backgroundColor: 'dodgerblue',
+    backgroundColor: 'lightseagreen',
     alignItems: 'center',
     padding: '0.5rem 2rem'
   }
